@@ -22,6 +22,8 @@ import org.openqa.selenium.JavascriptExecutor;
 
 public class CommonUtilities {
 	
+	
+	//this is for driver
 	public WebDriver driver;
 
 	public CommonUtilities(WebDriver driver) {
